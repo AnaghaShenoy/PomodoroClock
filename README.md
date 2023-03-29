@@ -3,7 +3,7 @@
 ## The Pomodoro Technique
 The Pomodoro Technique is a **time management method** developed by Francesco Cirillo in the late 1980s. It's a productivity technique that uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
-###The basic steps of the Pomodoro Technique are:
+### The basic steps of the Pomodoro Technique are:
 1. Choose a task that you want to work on.
 2. Set a timer for 25 minutes (this time interval is called a "pomodoro").
 3. Work on the task until the timer rings.
